@@ -1,0 +1,9 @@
+# ninja log v5
+1	172	0	CMakeFiles/shortbite.dir/converter.cpp.o	df2567e15eda6f4d
+172	268	0	C:/Users/Deilson/AndroidStudioProjects/shortbite/shortbite/build/intermediates/cmake/debug/obj/arm64-v8a/libshortbite.so	fd9a6666abd04d9d
+2	371	0	CMakeFiles/shortbite.dir/converter.cpp.o	df2567e15eda6f4d
+371	624	0	C:/Users/Deilson/AndroidStudioProjects/shortbite/shortbite/build/intermediates/cmake/debug/obj/arm64-v8a/libshortbite.so	fd9a6666abd04d9d
+1	142	0	CMakeFiles/shortbite.dir/converter.cpp.o	df2567e15eda6f4d
+142	221	0	C:/Users/Deilson/AndroidStudioProjects/shortbite/shortbite/build/intermediates/cmake/debug/obj/arm64-v8a/libshortbite.so	fd9a6666abd04d9d
+1	116	0	CMakeFiles/shortbite.dir/converter.cpp.o	df2567e15eda6f4d
+116	214	0	C:/Users/Deilson/AndroidStudioProjects/shortbite/shortbite/build/intermediates/cmake/debug/obj/arm64-v8a/libshortbite.so	fd9a6666abd04d9d

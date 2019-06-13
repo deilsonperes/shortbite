@@ -1,0 +1,6 @@
+[1/2] Building CXX object CMakeFiles/shortbite.dir/converter.cpp.o
+C:\Users\Deilson\AndroidStudioProjects\shortbite\shortbite\src\main\cpp\converter.cpp:89:26: warning: pragma diagnostic pop could not pop, no matching push [-Wunknown-pragmas]
+#pragma clang diagnostic pop
+                         ^
+1 warning generated.
+[2/2] Linking CXX shared library C:\Users\Deilson\AndroidStudioProjects\shortbite\shortbite\build\intermediates\cmake\debug\obj\arm64-v8a\libshortbite.so
